@@ -39,9 +39,10 @@ Our vision is to offer a revitalized version of the classic Snake game that comb
 <br>
 <br>
 
-<div align="center">
-  <img width="1399" src="https://github.com/user-attachments/assets/207319be-4bb1-4361-b14d-f3b132d9725f" alt="Screenshot of Snake Game">
-</div>
+
+https://github.com/user-attachments/assets/efaf8339-41d6-4c19-873f-1eaf310ba47b
+
+
 
 ### Join Us on Our Journey
 
