@@ -1,10 +1,10 @@
-# 🐍 Houssem's Snake Challenge 🐍
+<h1 align="center">🐍 Houssem's Snake Challenge 🐍</h1>
 
 ### 
 <h3 align="center">Welcome to Houssem's Snake Challenge, a thrilling game of skill and strategy!</h3>
 
 <div align="center">
-  <img height="150" src="https://i.ibb.co/W2PdqZR/Adobe-Stock-841659394-Preview.jpg" alt="Snake Game" />
+  <img height="150" src="https://i.ibb.co/1L215w8/Adobe-Stock-841659394-Preview-removebg-preview.png" alt="Snake Game" />
 </div>
 
 ### 👩‍💻 About the Game
@@ -65,3 +65,4 @@ Feel free to reach out if you have any questions or feedback. We're here to help
 <div align="center">
   <img src="https://profile-counter.glitch.me/YOUR_PROFILE/count.svg?"  />
 </div>
+
